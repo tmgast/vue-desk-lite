@@ -8,12 +8,12 @@
 
 <style type="scss">
   .shelf{
-    top: 0;
-    position: absolute;
-    height: 30px;
+    float: left;
+    position: relative;
+    height: 60px;
     width: 100%;
 
-    color: #f8f8f8;
-    box-shadow: 5px 5px 5 #aaa;
+    background-color: #fefefe;
+    box-shadow:2px 2px 5px #999;
   }
 </style>
